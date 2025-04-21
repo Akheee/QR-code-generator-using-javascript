@@ -16,5 +16,5 @@ A simple and responsive web application to generate QR codes from URLs using the
 - 📱 **Responsive Design**: Mobile-friendly layout.
 - 🎨 **Dark Chalkboard Theme**: Stylish and minimal user interface.
 
-## 🔧 How to Use
+
 
